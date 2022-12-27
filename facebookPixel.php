@@ -61,5 +61,4 @@ function sendFacebookPixelEvent($pixelID, $apiVersion, $accessToken, $eventType,
 
   return $response;
 }
-
 ?>
