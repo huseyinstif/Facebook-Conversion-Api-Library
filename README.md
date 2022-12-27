@@ -118,4 +118,6 @@ echo $response;
 
 <p>Bu kodu kullanmadan önce, <code>YOUR_PIXEL_ID</code>, <code>YOUR_API_VERSION</code> ve <code>YOUR_ACCESS_TOKEN</code> değişkenlerini kendi Facebook Pixel bilgileriniz ile değiştirin.</p>
 
-
+<h2>Contact</h2>
+mail@huseyintintas.com<br>
+https://twitter.com/1337stif
